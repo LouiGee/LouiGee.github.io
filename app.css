@@ -6,15 +6,6 @@ h1
     text-align: center;
 }
 
-div 
-{
-    width: 35px;
-    height: 5px;
-    background-color: black;
-    margin: 6px 0;
-    text-align: right;
-}
-
 /* Add a black background color to the top navigation*/ 
 .topnav {
     background-color: #333;
