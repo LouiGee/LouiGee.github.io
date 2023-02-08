@@ -2,6 +2,7 @@ h1
 {
     color :  red; 
     font-family:"Monaco" ,"Lucida Console", monospace;
+    font-size: 40px;
 }
 
 /* Add a black background color to the top navigation*/ 
