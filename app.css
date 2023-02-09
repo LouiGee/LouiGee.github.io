@@ -49,8 +49,8 @@ h1
   
   /* Make the image responsive */
   .container img {
-    width: auto;
-    height: auto;
+    width: 1000;
+    height: 400;
   }
   
   /* Style the button and place it in the middle of the container/image */
