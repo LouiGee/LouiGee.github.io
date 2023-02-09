@@ -30,6 +30,13 @@ h1
   
   /* Add a color to the active/current link */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: #0c6eb4;
     color: white;
   } 
+
+  /* Setting a background picture */
+
+  body {
+    background-image: url("/images/Background.jpeg");
+    background-color: #d77d7d;
+   }
