@@ -40,6 +40,7 @@ h1
     background-color: #83a1d5f6;
    }
 
+
    /* Container needed to position the button. Adjust the width as needed */
 .container {
     position: relative;
@@ -48,7 +49,7 @@ h1
   
   /* Make the image responsive */
   .container img {
-    width: 200%;
+    width: auto;
     height: auto;
   }
   
