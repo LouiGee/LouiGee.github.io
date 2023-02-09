@@ -39,35 +39,3 @@ h1
   body { 
     background-color: #83a1d5f6;
    }
-
-
-   /* Container needed to position the button. Adjust the width as needed */
-.column {
-    position: left;
-    width: 50%;
-  }
-  
-  /* Make the image responsive */
-  .column img {
-    width: 100%;
-  }
-  
-  /* Style the button and place it in the middle of the container/image */
-  .column .btn {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    background-color: #555;
-    color: white;
-    font-size: 16px;
-    padding: 12px 24px;
-    border: none;
-    cursor: pointer;
-    border-radius: 5px;
-  }
-  
-  .column .btn:hover {
-    background-color: black;
-  }
