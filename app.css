@@ -36,9 +36,8 @@ h1
 
   /* Setting a background picture */
 
-  body {
-    background-image: url("/Images/Background.jpeg"); 
-    background-color: #d77d7df6;
+  body { 
+    background-color: #83a1d5f6;
    }
 
    /* Container needed to position the button. Adjust the width as needed */
