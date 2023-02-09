@@ -43,7 +43,7 @@ h1
 
    /* Container needed to position the button. Adjust the width as needed */
 .container {
-    position: relative;
+    position: left;
     width: 50%;
   }
   
@@ -74,7 +74,7 @@ h1
 
   /* Container needed to position the button. Adjust the width as needed */
   .container2 {
-    position: relative;
+    position:  middle;
     width: 50%;
   }
   
