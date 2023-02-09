@@ -42,18 +42,18 @@ h1
 
 
    /* Container needed to position the button. Adjust the width as needed */
-.container {
+.column {
     position: left;
     width: 50%;
   }
   
   /* Make the image responsive */
-  .container img {
-    width: 200%;
+  .column img {
+    width: 100%;
   }
   
   /* Style the button and place it in the middle of the container/image */
-  .container .btn {
+  .column .btn {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -68,6 +68,6 @@ h1
     border-radius: 5px;
   }
   
-  .container .btn:hover {
+  .column .btn:hover {
     background-color: black;
   }
