@@ -49,7 +49,7 @@ h1
   
   /* Make the image responsive */
   .container img {
-    width: 50%;
+    width: 200%;
   }
   
   /* Style the button and place it in the middle of the container/image */
@@ -80,7 +80,7 @@ h1
   
   /* Make the image responsive */
   .container2 img {
-    width: 50%;
+    width: 200%;
   }
   
   /* Style the button and place it in the middle of the container/image */
