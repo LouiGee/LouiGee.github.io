@@ -6,6 +6,22 @@ h1
     text-align: center;
 }
 
+h2
+{
+    color :  rgba(255, 0, 238, 0.39); 
+    font-family:"Monaco" ,"Lucida Console", monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
+h3
+{
+    color :  rgba(255, 0, 238, 0.39); 
+    font-family:"Monaco" ,"Lucida Console", monospace;
+    font-size: 40px;
+    text-align: center;
+}
+
 /* Add a black background color to the top navigation*/ 
 .topnav {
     background-color: #333;
