@@ -104,3 +104,8 @@ h4
       }
     /* </style> /*
 
+/* Style food paragraph*/
+
+    .food {
+        background-color: rgb(63, 76, 191);
+    }
