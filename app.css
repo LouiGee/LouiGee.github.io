@@ -48,7 +48,8 @@
     background-color: #83a1d5f6;
     }
  /*-------------------------------Index-------------------------------*/
-  /* Picture Display */
+ 
+ /* Picture Display */
 
     * 
     {
@@ -62,14 +63,15 @@
     padding: 5px;
     }
         
-    /* Clearfix (clear floats) */
+/* Clearfix (clear floats) */
         .rowindex::after 
         {
           content: "";
           clear: both;
           display: table;
         }
-    /*Make the images shake */
+
+/*Make the images shake */
     
     .image1:hover, .image2:hover, .image3:hover 
     {
@@ -110,31 +112,31 @@
 /*CSS for slideshow */
 
     /* The grid: Four equal columns that float next to each other */
-    .column {
+    .columnlife {
     float: left;
     width: 25%;
     padding: 10px;
     }
   
     /* Style the images inside the grid */
-    .column img {
+    .columnlife img {
     opacity: 0.8;
     cursor: pointer;
     }
   
-    .column img:hover {
+    .columnlife img:hover {
     opacity: 1;
     }
   
     /* Clear floats after the columns */
-    .row1:after {
+    .rowlife:after {
     content: "";
     display: table;
     clear: both;
     }
   
     /* The expanding image container (positioning is needed to position the close button and the text) */
-    .container {
+    .containerlife {
     position: relative;
     display: none;
     }
