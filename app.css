@@ -100,12 +100,12 @@
 /*-----------------------------Life----------------------------*/
 
 /* Style food paragraph*/
-
-    .food {
-    background-color: rgb(63, 76, 191);
+    h5{
+    
     }
-
-
+    .food {
+    background-color: rgb(96, 106, 200);
+    }
 
 /*CSS for slideshow */
 
