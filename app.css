@@ -100,13 +100,18 @@
 /*-----------------------------Life----------------------------*/
 
 /* Style food paragraph*/
+    h5 {
+        color :  rgba(255, 0, 238, 0.39); 
+        font-family:"Monaco" ,"Lucida Console", monospace;
+    }
 
     .food {
     background-color: rgb(96, 106, 200);
+    border-radius: 25px
     }
 
 /*CSS for slideshow */
-    /*.rowlife {
+    .rowlife {
     padding: 20px
     }
     /* The grid: Four equal columns that float next to each other */
