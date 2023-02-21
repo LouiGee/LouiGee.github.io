@@ -47,3 +47,9 @@ body
 { 
 background-color: #83a1d5f6;
 }
+
+/* Chess image formatting */
+
+.Chess2, .Chess3 {
+    padding:40px
+}
